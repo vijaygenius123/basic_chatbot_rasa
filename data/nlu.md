@@ -12,6 +12,21 @@
 - see you around
 - see you later
 
+## intent:inform
+- [Bangalore](location)
+- [Delhi](location)
+- [Mumbai](location)
+- [Patna](location)
+- [Chennai](location)
+
+## intent:search_provider
+- i need a [hospital](facility_type)
+- find me a nearby [hospital](facility_type)
+- show me [home health agencies](facility_type)
+- [hospital](facility_type)
+- find me a nearby [hospital](facility_type) in [Bangalore](location)
+- I need a [home health agency](facility_type)
+
 ## intent:affirm
 - yes
 - indeed
